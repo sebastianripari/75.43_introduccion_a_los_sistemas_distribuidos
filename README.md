@@ -1,1 +1,1 @@
-![alt text](image.jpeg "Title")
+![alt text](images/image.jpeg "Title")
